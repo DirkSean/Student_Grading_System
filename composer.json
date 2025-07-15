@@ -1,0 +1,16 @@
+{
+    "name": "cabiten/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cabiten\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cabiten"
+        }
+    ],
+    "require": {}
+}
